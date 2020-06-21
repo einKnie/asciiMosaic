@@ -1,3 +1,5 @@
+#!/usr/bin/env python
+
 import os
 import sys, getopt
 from PIL import Image, ImageFont, ImageDraw, ImageOps
